@@ -1,0 +1,30 @@
+form,p {
+ margin:0;
+ padding:0;
+}
+form {
+ position:relative;
+}
+.dys {
+ position:absolute;
+ z-index:5;
+ left:111px;
+ width:18px;
+ overflow:hidden;
+}
+.dys select {
+ margin-left:-111px;
+ width:129px;
+}
+.dyw {
+ position:absolute;
+ z-index:4;
+ #top:-1px;
+}
+.dyw input {
+ width:113px;
+ voice-family:"\"}\"";
+ voice-family:inherit;
+ width:110px;
+ #width:107px;
+}
